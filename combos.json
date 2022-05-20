@@ -1,0 +1,32 @@
+{
+    "WindVel": {
+        "start": 2,
+        "end": 12,
+        "n": 6 
+    },
+    "MoorMass": {
+	"start": 70,
+	"end": 80,
+	"n": 5
+    },
+    "MoorStiff": {
+	"start": 3e6,
+	"end": 3.5e6,
+	"n": 5
+    },
+    "MoorDamp": {
+	"start": 3e5,
+	"end": 3.5e5,
+	"n": 5
+    },
+    "Hs": {
+	"start": 4,
+    	"end": 10,
+	"n": 6
+    },	
+    "Tp": {
+	"start": 7,
+    	"end": 13,
+	"n": 6
+    }
+}
